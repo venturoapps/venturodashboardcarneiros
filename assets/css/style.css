@@ -1,0 +1,21 @@
+#myCarousel {
+  max-width: 100%;
+  margin: 0;
+}
+
+.carousel-inner {
+  background: #111;
+}
+
+.carousel-indicators {
+  bottom: -13px !important;
+}
+
+.carousel-item {
+  padding-bottom: 25px;
+}
+
+video {
+  width: 100%;
+}
+/* Then style the iframe to fit in the container div with full height and width */
